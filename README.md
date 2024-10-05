@@ -1,6 +1,6 @@
 DbTool
 
-SignatureDbTool is a C#-based tool designed for database operations, including database connection, script generation, 
+DbTool is a C#-based tool designed for database operations, including database connection, script generation, 
 and logging activities. This tool is built with modular components to simplify interactions with databases and automate certain operations using Dependency Injection and SOLID Principles.
 
 Project Structure
